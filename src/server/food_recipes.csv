@@ -1,0 +1,5 @@
+recipe_name,ingredients,image_link,carbs,protein,fats,calories
+Chicken Caesar Salad,"Chicken breast, Romaine lettuce, Caesar dressing, Parmesan cheese, Croutons",https://example.com/chicken_caesar_salad.jpg,10,30,12,320
+Spaghetti Bolognese,"Spaghetti, Ground beef, Tomato sauce, Onion, Garlic, Olive oil",https://example.com/spaghetti_bolognese.jpg,40,25,15,450
+Avocado Toast,"Whole grain bread, Avocado, Olive oil, Salt, Pepper",https://example.com/avocado_toast.jpg,20,5,12,250
+Grilled Salmon,"Salmon fillet, Lemon, Olive oil, Garlic, Dill",https://example.com/grilled_salmon.jpg,2,35,20,400
